@@ -1,0 +1,10 @@
+# Loan Credit Risk Model
+
+Business Problem
+
+Dari sebanyak 466.285 nasabah yang melakukan peminjaman, Terdapat 10,8% nasabah yang tidak mampu membayar pinjaman.
+
+Objectives
+
+Memprediksi kemampuan nasabah dalam melakukan pelunasan peminjaman berdasarkan hasil Machine Learning
+Memberikan rekomendasi jenis peminjaman berdasarkan hasil Exploratory Data Analysis
